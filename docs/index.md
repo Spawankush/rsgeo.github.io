@@ -27,10 +27,6 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
 Lead Geospatial Analyst with expertise in automating geospatial production, QC/QA workflows, and operational processes. I have developed 25+ apps/tools/plugins and 50+ scripts, reducing geospatial processing time and costs by 30–40%. I specialize in extracting actionable insights from satellite/aerial/UAV imagery and large spatial datasets using Python, Google Earth Engine, and open-source GIS tools, with a strong focus on Geospatial and AI-powered workflow optimization. I am proficient in modern AI tools such as ChatGPT, Claude, Cursor, and Kiro, and am currently exploring opportunities in advanced geospatial analytics, computer vision, and scalable Geospatial solutions.
 
 </div>
@@ -53,7 +49,7 @@ Lead Geospatial Analyst with expertise in automating geospatial production, QC/Q
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   **GIS & Remote Sensing**
 
     ---
 
@@ -62,7 +58,7 @@ Lead Geospatial Analyst with expertise in automating geospatial production, QC/Q
     - Multispectral and Aerial image analysis, Lidar data processing
     - Large spatial data analysis
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-   **Programming**
 
     ---
 
@@ -70,7 +66,7 @@ Lead Geospatial Analyst with expertise in automating geospatial production, QC/Q
     - JavaScript — Leaflet
     - SQL, PostgreSQL + PostGIS
 
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   **Machine Learning & GeoAI**
 
     ---
 
@@ -79,7 +75,7 @@ Lead Geospatial Analyst with expertise in automating geospatial production, QC/Q
     - scikit-learn, PyTorch, OpenCV
     - Object detection in satellite imagery
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
+-    **Web Mapping & Data**
 
     ---
 
@@ -88,7 +84,7 @@ Lead Geospatial Analyst with expertise in automating geospatial production, QC/Q
     - Data formats — GeoTIFF, shp
     - Streamlit for data-driven web apps
 
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   **Data & Cloud**
 
     ---
 
@@ -96,9 +92,9 @@ Lead Geospatial Analyst with expertise in automating geospatial production, QC/Q
     - Cloud storage: AWS S3, Google Cloud Storage
     - Data formats: GeoJSON, SHP, GPKG, KMZ,  GeoTIFF
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   **Drone / UAV Data Processing**
 
-    - Point cloud processing: CloudCompare, PDAL
+    - Point cloud processing: CloudCompare, PDAL, ArcPy
 </div>
 
 
