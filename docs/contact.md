@@ -17,10 +17,10 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| **Email** | spawan.kush@gmail.com(mailto:spawan.kush@gmail.com) |
-| **GitHub** | github.com/Spawankush(https://github.com/Spawankush) |
-| **LinkedIn** | linkedin.com/in/pawan-kumar-aidash(https://linkedin.com/in/pawan-kumar-aidash) |
-| **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| **Email** | [spawan.kush@gmail.com](mailto:spawan.kush@gmail.com) |
+| **GitHub** | [github.com/Spawankush](https://github.com/Spawankush) |
+| **LinkedIn** | [linkedin.com/in/pawan-kumar-aidash](https://linkedin.com/in/pawan-kumar-aidash) |
+
 
 ---
 
