@@ -14,7 +14,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="PAWAN KUMAR" class="profile-photo">
+  <img src="assets/images/profile.PNG" alt="PAWAN KUMAR" class="profile-photo">
   <h1>PAWAN KUMAR</h1>
   <p><strong>Lead Geospatial Analyst</strong></p>
   <p><em>..automating traditional manual geospatial workflows | GIS | Lidar | Remote Sensing | Python</em></p>
@@ -36,7 +36,7 @@ Lead Geospatial Analyst with expertise in automating geospatial production, QC/Q
 </div>
 
 <div class="about-image">
-  <img src="assets/images/about.png" alt="About">
+  <img src="assets/images/about.PNG" alt="About">
 </div>
 
 </div>
