@@ -14,10 +14,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="PAWAN KUMAR" class="profile-photo">
+  <h1>PAWAN KUMAR</h1>
+  <p><strong>Lead Geospatial Analyst</strong></p>
+  <p><em>..automating traditional manual geospatial workflows | GIS | Lidar | Remote Sensing | Python</em></p>
 </div>
 
 ---
@@ -31,11 +31,7 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+Lead Geospatial Analyst with expertise in automating geospatial production, QC/QA workflows, and operational processes. I have developed 25+ apps/tools/plugins and 50+ scripts, reducing geospatial processing time and costs by 30–40%. I specialize in extracting actionable insights from satellite/aerial/UAV imagery and large spatial datasets using Python, Google Earth Engine, and open-source GIS tools, with a strong focus on Geospatial and AI-powered workflow optimization. I am proficient in modern AI tools such as ChatGPT, Claude, Cursor, and Kiro, and am currently exploring opportunities in advanced geospatial analytics, computer vision, and scalable Geospatial solutions.
 
 </div>
 
@@ -61,36 +57,35 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - QGIS, ArcGIS Pro, Erdas Imagine, Google Earth Engine
+    - GDAL / OGR, OSGeo4W
+    - Multispectral and Aerial image analysis, Lidar data processing
+    - Large spatial data analysis
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
+    - Python — GeoPandas, NumPy, Pandas, Matplotlib, Rasterio, Shapely, Fiona
+    - JavaScript — Leaflet
     - SQL, PostgreSQL + PostGIS
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
+    - Supervised classification — Random Forest
+    - Deep learning for image segmentation — SAM
+    - scikit-learn, PyTorch, OpenCV
     - Object detection in satellite imagery
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
+    - Leaflet.js
     - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
+    - Data formats — GeoTIFF, shp
     - Streamlit for data-driven web apps
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
@@ -99,12 +94,10 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     - PostgreSQL + PostGIS
     - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Data formats: GeoJSON, SHP, GPKG, KMZ,  GeoTIFF
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
     - Point cloud processing: CloudCompare, PDAL
 </div>
 
@@ -113,5 +106,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/Spawankush){ .md-button }
+[LinkedIn](https://linkedin.com/in/pawan-kumar-aidash){ .md-button }
