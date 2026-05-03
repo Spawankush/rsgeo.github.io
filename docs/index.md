@@ -40,7 +40,7 @@ Lead Geospatial Analyst with expertise in automating geospatial production, QC/Q
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Pawan-CV.pdf){ .md-button }
 
 
 ---
